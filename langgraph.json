@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        "."
+    ],
+    "graphs": {
+        "customer_support": "graph_build:graph"
+    },
+    "env": ".env"
+}
